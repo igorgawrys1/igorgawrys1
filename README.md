@@ -8,7 +8,6 @@ My background is PHP full-stack engineering: Laravel, Symfony, API Platform, Doc
 
 [![Website](https://img.shields.io/badge/Website-gawrys.me-111827?style=for-the-badge)](https://gawrys.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Gawrys-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorgawrys/)
-[![Book a meeting](https://img.shields.io/badge/Book_a_meeting-Koalendar-16A34A?style=for-the-badge)](https://koalendar.com/e/igor-gawrys)
 [![Email](https://img.shields.io/badge/Email-igor@gawrys.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor@gawrys.me)
 
 ---
@@ -87,6 +86,5 @@ That is also how I use AI in engineering: as a force multiplier around code sear
 I write about software, AI systems, automation, and developer tooling at **[gawrys.me](https://gawrys.me)**.
 
 - Website: **[gawrys.me](https://gawrys.me)**
-- Book a meeting: **[koalendar.com/e/igor-gawrys](https://koalendar.com/e/igor-gawrys)**
 - LinkedIn: **[linkedin.com/in/igorgawrys](https://www.linkedin.com/in/igorgawrys/)**
 - Email: **[igor@gawrys.me](mailto:igor@gawrys.me)**
